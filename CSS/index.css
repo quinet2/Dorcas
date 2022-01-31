@@ -1,0 +1,23 @@
+body
+{
+    
+    background-image: url(../IMG/4.jpeg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.word
+{
+    margin: 200px auto;
+    text-align: left;
+    color: white;
+}
+.word h4
+{
+    font-size: 40px;
+    font-weight: 600;
+}
+.word p{
+    font-weight: bold;
+    font-size: 20px;
+}
